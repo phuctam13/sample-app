@@ -10,7 +10,6 @@ const Payment = () =>{
                 Pay
             </div>
         </div>
-        
     );
 }
 export default Payment;
