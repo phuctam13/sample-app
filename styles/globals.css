@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.checkout-container{
+  color: green;
+  padding: 5%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
